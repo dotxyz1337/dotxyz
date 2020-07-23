@@ -171,7 +171,7 @@
 
                         clearCursor();
 
-                        writeLine(["<i style='color: #F62459'>kaizem.xyz/discord</i>"], 120, 500, function () {
+                        writeLine(["<i style='color: #F62459'>discord.io/dotxyz</i>"], 120, 500, function () {
 
                             timeouts.push(setTimeout(function () {
 
