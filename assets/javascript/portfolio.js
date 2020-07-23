@@ -19,8 +19,8 @@
                 },
 
                 {
-                    name: 'My Anime List',
-                    link: 'https://myanimelist.net/animelist/Zekrino'
+                    name: 'Twitch',
+                    link: 'https://twitch.tv/zentiowo'
 				},     
 				
 				{
