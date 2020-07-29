@@ -15,23 +15,18 @@
             var links = [
 				{
                     name: 'Discord',
-                    link: 'https://discord.io/dotxyz'
+                    link: 'https://file-link.net/139131/dotxyz'
                 },
 
                 {
                     name: 'Twitch',
-                    link: 'https://twitch.tv/zentiowo'
+                    link: 'https://file-link.net/139131/zentitwitch'
 				},     
 				
 				{
                     name: 'YouTube',
-                    link: 'https://www.youtube.com/c/slxrred'
-				},     	
-
-				{
-                    name: 'NameMC',
-                    link: 'https://namemc.com/profile/SLXRRED.1'
-				}, 		
+                    link: 'https://file-link.net/139131/dotxyzyt'
+				},     			
             ];
          
             for (var i in links)
